@@ -1,0 +1,15 @@
+{
+  "name": "metalsmith-pretty-serve",
+  "description": "A metalsmith plugin to hide the .html extension during local development",
+  "repository": "git://github.com/mpd106/metalsmith-pretty-serve.git",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {
+    "metalsmith": "^1.2.0",
+    "mocha": "^2.1.0"
+  }
+}
