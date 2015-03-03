@@ -6,7 +6,8 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "express": "^4.11.2"
+    "express": "^4.11.2",
+    "chalk": "^1.0.0"
   },
   "devDependencies": {
     "metalsmith": "^1.2.0",
